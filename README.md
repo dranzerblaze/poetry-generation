@@ -3,19 +3,12 @@ Text Generator for writing Shakespere styled poems and sonnets.
 
 Original Data Link :- http://www.gutenberg.org/cache/epub/1041/pg1041.txt
 
-Result with 10 Epochs & Less dense model:- 
-"The riper should by time decease,
-his tender heir might bear his memory:
-but thou, contracted to the world's false sporoe,
-with eyes so dond touls be thy domfornds,
-which for memorion of the seasons new;
-mike own self-love to shou art constant
-how can i then be oy love doth give,
-the rose looks fair, but fairer bomments age.
-now with the seas that i have seen dychl
-that mot to teed of you, if h ho bontent,
-and all the ress of the heartai thee;
-the world will was iis bound and farty "
+Colaboratory Link :- https://colab.research.google.com/drive/1Fb4W2lLFLwbH6a3BPcfbd_mRQjqb-QMJ
+
+Result with 5 Epochs & Less dense model:- 
+" the riper should by time decease,
+ his tender heir might bear his memory:
+ but thou, contracted to the the the the the the the the the the the the the the the the the the the the the the the the the "
 
 Result with 100 Epochs :- 
 "The riper should by time decease,
